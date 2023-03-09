@@ -37,7 +37,6 @@ Always striving to work with technology that can improve the human way of living
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasky&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/jonasky)  
 [![Generic badge](https://img.shields.io/badge/.altv_pkg_support-Yes!-4E753E.svg)](https://shields.io/)
