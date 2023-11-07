@@ -1,6 +1,8 @@
 ![Header](./header.png)
 
 Always striving to work with technology that can improve the human way of living. Broad knowledge of computer science and design. Seeking challenges and mastering them by developing innovative ideas. 
+- 🔭 Research Associate at the Institute for Informations Systems at Hof University
+- ⚡ Passionate Scientist and Gamer
 
 🚀 Languages and Tools 🔝
 </br>
@@ -23,8 +25,7 @@ Always striving to work with technology that can improve the human way of living
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-- 🔭 Research Associate at the Institute for Informations Systems at Hof University
-- ⚡ Passionate Scientist and Gamer 
+
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
