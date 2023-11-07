@@ -26,9 +26,4 @@ Always striving to work with technology that can improve the human way of living
 - ⚡ Passionate Scientist and Gamer 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jonasky)  [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/jkem/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14241628)  
-
-
-![Profile views](https://gpvc.arturio.dev/jonasky)  
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
